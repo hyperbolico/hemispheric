@@ -2,11 +2,12 @@
 
 Una herramienta visual interactiva para el desarrollo de la coordinación rítmica y la independencia de las manos, diseñada como apoyo para ejercicios de percusión.
 
-> Objetivo >>
+> Objetivo >>>>>>>
 
 Hemispheric está pensado para acompañar la práctica física de percusión, ayudando a desarrollar la conexión entre ambos hemisferios cerebrales mediante ejercicios rítmicos. La pantalla muestra figuras que indican con qué mano golpear:
 
-Figura	Significado
+Figura	Significado:
+
 🔵 Triángulo azul	Golpe con la mano izquierda
 🔴 Círculo rojo	Golpe con la mano derecha
 
@@ -21,7 +22,7 @@ ALEATORIO / 	Genera figuras de manera aleatoria con duración de dos tiempos. En
 
 ERROR /	Presenta figuras en las que solo deben golpearse el triángulo (izquierda) o el círculo (derecha). Las formas adicionales (cuadrado, estrella, corazón, emojis) deben ignorarse. Este modo entrena la inhibición cognitiva y la atención selectiva.
 
-> Controles
+> Controles >>>>>>>
 
  BPM ajustable (40–160) – Controla la velocidad del ejercicio.
  Play / Stop – Inicia o detiene la práctica.
